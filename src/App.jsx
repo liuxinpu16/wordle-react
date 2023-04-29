@@ -13,7 +13,7 @@ function App() {
         url: "https://wordle-answers-solutions.p.rapidapi.com/today",
         headers: {
           "content-type": "application/octet-stream",
-          "X-RapidAPI-Key": "xxx",
+          "X-RapidAPI-Key": "xxs",
           "X-RapidAPI-Host": "wordle-answers-solutions.p.rapidapi.com",
         },
       };
